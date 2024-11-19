@@ -4,26 +4,25 @@
       "name": "DTPmx",
       "maintainer": "Proyectil MX",
       "websiteUrl": "https://www.proyectil.mx/",
-      "Url": "https://proyectilmx.github.io/proyectil-boards-index/package_proyectil.mx_boards_index.json",
       "email": "misael@proyectil.mx",
       "platforms": [
         {
           "name": "Proyectil AVR Boards",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "0.0.1",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://proyectilmx.github.io/proyectil-boards-index/proyectilmx-boards-v1.0.1.zip",
-          "archiveFileName": "proyectilmx-boards-v1.0.1.zip",
-          "checksum": "SHA-256:e494e8dac7ff103692617d36236c17cccc73ae0369bd9cffe305839b814c8fe2",
-          "size": "10710114",
+          "url": "https://github.com/ProyectilMx/releasesproyectil.github.io/Proyectil-Mx-AVR-Boards-0.0.1.tar.gz",
+          "archiveFileName": "Proyectil-Mx-AVR-Boards-0.0.1.tar.gz",
+          "checksum": "SHA-256:610c93e5957714733693a80c9fc8b44e9d0cd814f9c5e4ee9c27ee85964f5497",
+          "size": "900660",
           "boards": [
             {
-              "name": "Enigma Box"
+              "name": "EBox"
             },
             {
               "name": "Modulo RFID"
-            }
+            }  
           ],
           "help": {},
           "toolsDependencies": [
